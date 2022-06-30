@@ -1,0 +1,22 @@
+{
+  "name": "cristina_server",
+  "version": "1.0.0",
+  "description": "Servidor de prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisSotoMo/practicaBackend.git"
+  },
+  "author": "Cristina Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisSotoMo/practicaBackend/issues"
+  },
+  "homepage": "https://github.com/crisSotoMo/practicaBackend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
